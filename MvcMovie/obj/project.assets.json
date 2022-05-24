@@ -7112,26 +7112,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\feded\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Federico Rojas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\feded\\source\\repos\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "C:\\Users\\Federico Rojas\\Documents\\GitHub\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "C:\\Users\\feded\\source\\repos\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
-      "packagesPath": "C:\\Users\\feded\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\feded\\source\\repos\\MvcMovie\\MvcMovie\\obj\\",
+      "projectPath": "C:\\Users\\Federico Rojas\\Documents\\GitHub\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "packagesPath": "C:\\Users\\Federico Rojas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Federico Rojas\\Documents\\GitHub\\MvcMovie\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\feded\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Federico Rojas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
